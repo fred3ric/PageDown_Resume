@@ -1,0 +1,156 @@
+---
+title: "Frederic Reinier's resume"
+author: Frederic Reinier
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+![Frederic Reinier](/Users/Fred/Documents/PageDown_Resume/PageDown_Resume/IMG_0627.JPG){width=70%}
+
+
+RESEARCH SCIENTIST WITH STRONG EXPERIENCE IN NEXT GENERATION SEQUENCING DATA & STATISTICAL ANALYSIS ON CANCER GENOMICS
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> fredreinier@gmail.com
+- <i class="fa fa-github"></i> [github.com/fred3ric](https://github.com/fred3ric)
+- <i class="fa fa-linkedin"></i> [in/frederic-reinier](https://www.linkedin.com/in/frederic-reinier/)
+- <i class="fa fa-phone"></i> 0615522175
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical analysis, statistical learning models, and optimization methods.
+
+- Full experience with next generation sequencing data analysis.
+
+- Programming: R, Perl, Python, UNIX, JavaScript and HTML
+
+- Documentation: LaTeX, Markdown
+
+- Literate Programming: Sweave, Knitr
+
+- Version control: git
+
+- Cluster computing
+
+
+Main
+================================================================================
+
+Frederic Reinier {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for an Data Scientist position
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Bioinformatic Scientist
+
+HalioDX
+
+Marseille, France
+
+2018 - today
+
+- Single-Cell RNA-seq Analysis for Academic and Pharma Customers.
+- Data anlysis on Genomic data for Gene expression Platform and correlation analysis with ImmunoHistoChemistry (Protein) analysis.
+
+### Bioinformatician, Data scientist   
+
+Inserm, UMR_S-1065, C3M
+
+Nice, France
+
+2016 - 2018
+
+- Single-Cell RNA-Seq study on uveal melanoma: Identification of molecular pathways triggered by gene expression on heterogeneous cell types in tumors.
+- Bioinformatics analysis for projects in the network of Cancéropôle PACA.
+- Strong interaction with scientists. Definition of Data analysis pipeline according to their requirements and objectives, principally on cancer genomics.
+
+### Visiting Scientist
+
+University of Washington, Dept of Genome Sciences
+
+Seattle, USA
+
+2013 - 2016
+
+- Investigated as data scientist on mendelian genomics disease. Member of Center for mendelian Genomics, UWCMG.
+- Developped pipeline analysis for large indels on whole exome data.
+- Detected POLD1 mutation in Progeria sample genome.
+  
+### Computer Scientist and Data Analyst
+
+Center of Research and Development in Sardinia
+
+Pula, Italy
+
+2006 - 2012
+
+- Investigated as data scientist on "1000 Sardinian Genomes", for the identification of  genomic variation on the specific sardinian population. In charge on Data analysis from sequencing machines.
+- Developped pipeline analysis for whole genome and exome sequence data.
+- Collaboration with international consortium. 
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Postgraduate Degree in Bioinformatics
+University of Mediterranean Luminy
+
+Marseille, France
+
+2005
+
+Thesis: Integration of genomic information to improve multiple sequence alignments.
+
+### MSc in Computer Science
+University of Mediterranean Luminy
+
+Marseille, France
+
+2004
+
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+### Copy Number Changes Identified Using Whole Exome Sequencing in Nonsyndromic Cleft Lip and Palate in a Honduran Population
+
+Birth Defects Res.
+
+Seattle, USA
+
+2017 
+
+Cai Y, Patterson KE, **Reinier F** et al.
+
+### Mandibular hypoplasia, deafness, progeroid features and lipodystrophy (MDPL) syndrome in the context of inherited lipodystrophies.
+
+Metabolism. 2015 Nov;64.
+
+Seattle, USA.
+
+2015
+
+**Reinier F**, Zoledziewska M, Hanna D et al. 
+
+### PROTOGENE: turning amino acid alignments into bona fide CDS nucleotide alignments.
+
+NAR 2006 July 1; 34 PMID: 16845080.
+
+Marseille, FRANCE.
+
+2006
+
+Moretti S, **Reinier F** et al.
+
+ 
